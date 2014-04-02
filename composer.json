@@ -10,6 +10,12 @@
             "email": "github@epicarena.com"
         }
     ],
+    "repositories": [
+        {
+             "type": "vcs",
+             "url": "https://github.com/IonutPerfectWeb/Zf2SlugGenerator"
+        }
+    ]
     "require": {
         "php": ">=5.3.3",
         "zf-commons/zfc-base": "0.*"
@@ -22,4 +28,5 @@
             "./Module.php"
         ]
     }
+    
 }
