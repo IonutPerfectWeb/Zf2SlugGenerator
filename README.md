@@ -13,12 +13,16 @@ Installation
 1) Add the following requirement to your projects composer.json file.
 
 Within the "repositories" section (create it as below if it doesn't exist):
+
+```
 "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/IonutPerfectWeb/zf2sluggenerator"
         }
     ]
+```
+
 
 Within the "require" section:
 
